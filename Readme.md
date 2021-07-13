@@ -1,1 +1,0 @@
-Curso práctico de Javascript
